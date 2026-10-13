@@ -1,0 +1,8 @@
+{
+  "name": "Chai & Osmania: Hyderabadi Arcade",
+  "description": "A fast-paced Hyderabadi arcade & incremental clicker game catching falling Osmania biscuits and brewing Irani chai across iconic city landmarks with hilarious banter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
